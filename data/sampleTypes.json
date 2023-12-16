@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Blood, filter card",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 2,
+    "name": "Blood, EDTA",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 3,
+    "name": "DNA",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 4,
+    "name": "Amniotic fluid",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 5,
+    "name": "blood, Cell-Free DNA BCT®",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 6,
+    "name": "Chorionic villi",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 8,
+    "name": "FFPE tissue, block",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 9,
+    "name": "FFPE tissue, slices",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 10,
+    "name": "Saliva",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 15,
+    "name": "CentoNIPT Streck Blood Collection Tube",
+    "sampleIdRequired": true
+  },
+  {
+    "id": 17,
+    "name": "Cultured amniotic cells",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 18,
+    "name": "Cultured CV cells",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 19,
+    "name": "buccal swab",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 22,
+    "name": "blood, CentoCard®",
+    "sampleIdRequired": true
+  },
+  {
+    "id": 24,
+    "name": "cord blood",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 25,
+    "name": "tissue, normal",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 26,
+    "name": "tissue, tumor",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 30,
+    "name": "bone marrow",
+    "sampleIdRequired": false
+  },
+  {
+    "id": 35,
+    "name": "leukocyte pellets",
+    "sampleIdRequired": false
+  }
+]

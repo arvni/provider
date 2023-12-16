@@ -1,0 +1,3901 @@
+[
+    {
+        "id": 1,
+        "name": "SYMPTOMCATEGORY.GROWTH",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 39,
+                "name": "SYMPTOM.GROWTH_DELAY",
+                "hpo": "HP:0001510",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    },
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 334,
+                "name": "SYMPTOM.INCREASED_BODY_WEIGHT",
+                "hpo": "HP:0004324",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 281,
+                "name": "SYMPTOM.OBESITY",
+                "hpo": "HP:0001513",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 336,
+                "name": "SYMPTOM.SMALL_FOR_GESTATIONAL_AGE",
+                "hpo": "HP:0001518",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 28,
+                "name": "SYMPTOM.DEAFNESS",
+                "hpo": "HP:0000365",
+                "tests": [
+                    {
+                        "id": 14,
+                        "name": "TTR"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 88,
+                "name": "SYMPTOM.FAILURE_TO_THRIVE",
+                "hpo": "HP:0001508",
+                "tests": [
+                    {
+                        "id": 16,
+                        "name": "Farber/ASAH1"
+                    },
+                    {
+                        "id": 118,
+                        "name": "hATTR (Carrier testing sanger- point mutation)"
+                    },
+                    {
+                        "id": 120,
+                        "name": "HPP"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 117,
+                        "name": "hATTR (Full gene sequencing)"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 208,
+                "name": "SYMPTOM.INTRAUTERINE_GROWTH_RETARDATION",
+                "hpo": "HP:0001511",
+                "tests": [
+                    {
+                        "id": 115,
+                        "name": "Achondroplasia"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 332,
+                "name": "SYMPTOM.PREMATURE_BIRTH",
+                "hpo": "HP:0001622",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 333,
+                "name": "SYMPTOM.TALL_STATURE",
+                "hpo": "HP:0000098",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 335,
+                "name": "SYMPTOM.LARGE_FOR_GESTATIONAL_AGE",
+                "hpo": "HP:0001520",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 66,
+                "name": "SYMPTOM.SHORT_STATURE",
+                "hpo": "HP:0004322",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 118,
+                        "name": "hATTR (Carrier testing sanger- point mutation)"
+                    },
+                    {
+                        "id": 120,
+                        "name": "HPP"
+                    },
+                    {
+                        "id": 117,
+                        "name": "hATTR (Full gene sequencing)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "SYMPTOMCATEGORY.VARIOUS",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 447,
+                "name": "SYMPTOM.RECURRENT_INFECTIONS",
+                "hpo": "HP:0002719",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 445,
+                "name": "SYMPTOM.IMMUNODEFICIENCY",
+                "hpo": "HP:0002721",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 442,
+                "name": "SYMPTOM.DIABETES_MELLITUS",
+                "hpo": "HP:0000819",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 444,
+                "name": "SYMPTOM.HYPOTHYROIDISM",
+                "hpo": "HP:0000821",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 44,
+                "name": "SYMPTOM.HYPERTENSION",
+                "hpo": "HP:0000822",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 15,
+                        "name": "AHUS"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 448,
+                "name": "SYMPTOM.SENSORY_IMPAIRMENT",
+                "hpo": "HP:0003474",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 439,
+                "name": "SYMPTOM.ABNORMAL_EXTERNAL_GENITALIA",
+                "hpo": "HP:0000811",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 446,
+                "name": "SYMPTOM.RECURRENT_FEVER",
+                "hpo": "HP:0001954",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 443,
+                "name": "SYMPTOM.HYPOSPADIAS",
+                "hpo": "HP:0000047",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 441,
+                "name": "SYMPTOM.CRYPTORCHIDISM",
+                "hpo": "HP:0000028",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 57,
+                "name": "SYMPTOM.PARESTHESIA",
+                "hpo": "HP:0003401",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "SYMPTOMCATEGORY.GROWTH2",
+        "disabled": true,
+        "symptoms": [
+            {
+                "id": 39,
+                "name": "SYMPTOM.GROWTH_DELAY",
+                "hpo": "HP:0001510",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    },
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 281,
+                "name": "SYMPTOM.OBESITY",
+                "hpo": "HP:0001513",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 28,
+                "name": "SYMPTOM.DEAFNESS",
+                "hpo": "HP:0000365",
+                "tests": [
+                    {
+                        "id": 14,
+                        "name": "TTR"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 88,
+                "name": "SYMPTOM.FAILURE_TO_THRIVE",
+                "hpo": "HP:0001508",
+                "tests": [
+                    {
+                        "id": 16,
+                        "name": "Farber/ASAH1"
+                    },
+                    {
+                        "id": 118,
+                        "name": "hATTR (Carrier testing sanger- point mutation)"
+                    },
+                    {
+                        "id": 120,
+                        "name": "HPP"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 117,
+                        "name": "hATTR (Full gene sequencing)"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 208,
+                "name": "SYMPTOM.INTRAUTERINE_GROWTH_RETARDATION",
+                "hpo": "HP:0001511",
+                "tests": [
+                    {
+                        "id": 115,
+                        "name": "Achondroplasia"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "SYMPTOMCATEGORY.BLOOD",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 286,
+                "name": "SYMPTOM.LEUKOPENIA",
+                "hpo": "HP:0001882",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 3,
+                "name": "SYMPTOM.ABNORMAL_BLEEDING",
+                "hpo": "HP:0001892",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 288,
+                "name": "SYMPTOM.PANCYTOPENIA",
+                "hpo": "HP:0001876",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 293,
+                "name": "SYMPTOM.HEMOLYTIC_ANEMIA",
+                "hpo": "HP:0001878",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 14,
+                "name": "SYMPTOM.ANEMIA",
+                "hpo": "HP:0001903",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 285,
+                "name": "SYMPTOM.LEUKOCYTOSIS",
+                "hpo": "HP:0001974",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 287,
+                "name": "SYMPTOM.NEUTROPENIA",
+                "hpo": "HP:0001875",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 289,
+                "name": "SYMPTOM.THROMBOCYTOSIS",
+                "hpo": "HP:0001894",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 284,
+                "name": "SYMPTOM.ABNORMALITY_OF_COAGULATION",
+                "hpo": "HP:0001928",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 73,
+                "name": "SYMPTOM.THROMBOCYTOPENIA",
+                "hpo": "HP:0001873",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    },
+                    {
+                        "id": 15,
+                        "name": "AHUS"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "SYMPTOMCATEGORY.CARDIOVASCULAR",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 295,
+                "name": "SYMPTOM.PATENT_DUCTUS_ARTERIOSUS",
+                "hpo": "HP:0001643",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 17,
+                "name": "SYMPTOM.ARRHYTHMIA",
+                "hpo": "HP:0011675",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Duchenne muscular dystrophy (DMD)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 299,
+                "name": "SYMPTOM.VENTRICULAR_SEPTAL_DEFECT",
+                "hpo": "HP:0001629",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 44,
+                "name": "SYMPTOM.HYPERTENSION",
+                "hpo": "HP:0000822",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 15,
+                        "name": "AHUS"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 29,
+                "name": "SYMPTOM.DECREASED_HEMOGLOBIN",
+                "hpo": "HP:0001903",
+                "tests": [
+                    {
+                        "id": 12,
+                        "name": "PKLR"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 236,
+                "name": "SYMPTOM.DILATED_CARDIOMYOPATHY",
+                "hpo": "HP:0001644",
+                "tests": [
+                    {
+                        "id": 25,
+                        "name": "Duchenne muscular dystrophy (DMD)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 296,
+                "name": "SYMPTOM.PATENT_FORAMEN_OVALE",
+                "hpo": "HP:0001655",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 177,
+                "name": "SYMPTOM.MYOCARDIAL_INFARCTIO",
+                "hpo": "HP:0001658",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 178,
+                "name": "SYMPTOM.CARDIOMYOPATHY",
+                "hpo": "HP:0001638",
+                "tests": [
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 291,
+                "name": "SYMPTOM.ABNORMAL_HEART_VALVE_MORPHOLOGY",
+                "hpo": "HP:0001654",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 132,
+                "name": "SYMPTOM.CONGESTIVE_HEART_FAILURE",
+                "hpo": "HP:0001635",
+                "tests": [
+                    {
+                        "id": 25,
+                        "name": "Duchenne muscular dystrophy (DMD)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 297,
+                "name": "SYMPTOM.PULMONARY_ARTERIAL_HYPERTENSION",
+                "hpo": "HP:0002092",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 292,
+                "name": "SYMPTOM.ATRIAL_SEPTAL_DEFECT",
+                "hpo": "HP:0001631",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 242,
+                "name": "SYMPTOM.BRADYCARDIA",
+                "hpo": "HP:0001662",
+                "tests": [
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 5,
+                "name": "SYMPTOM.ABNORMAL_FACIAL_SHAPE",
+                "hpo": "HP:0001999",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 18,
+                        "name": "MOCS1"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 294,
+                "name": "SYMPTOM.HYPERTROPHIC_CARDIOMYOPATHY",
+                "hpo": "HP:0001639",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 298,
+                "name": "SYMPTOM.TACHYCARDIA",
+                "hpo": "HP:0001649",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "SYMPTOMCATEGORY.CNS_MORPHOLOGY",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 304,
+                "name": "SYMPTOM.CEREBELLAR_ATROPHY",
+                "hpo": "HP:0001272",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 3,
+                "name": "SYMPTOM.ABNORMAL_BLEEDING",
+                "hpo": "HP:0001892",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 309,
+                "name": "SYMPTOM.LEUKODYSTROPHY",
+                "hpo": "HP:0002415",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 308,
+                "name": "SYMPTOM.HYPOPLASIA_OF_THE_CORPUS_CALLOSUM",
+                "hpo": "HP:0002079",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 195,
+                "name": "SYMPTOM.MICROCEPHALY",
+                "hpo": "HP:0000252",
+                "tests": [
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 211,
+                "name": "SYMPTOM.VENTRICULOMEGALY",
+                "hpo": "HP:0002119",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 301,
+                "name": "SYMPTOM.ABNORMALITY_OF_CEREBRAL_WHITE_MATTER",
+                "hpo": "HP:0002500",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 305,
+                "name": "SYMPTOM.CEREBELLAR_HYPOPLASIA",
+                "hpo": "HP:0001321",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 302,
+                "name": "SYMPTOM.AGENESIS_OF_THE_CORPUS_CALLOSUM",
+                "hpo": "HP:0001274",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 204,
+                "name": "SYMPTOM.MACROCEPHALY",
+                "hpo": "HP:0000256",
+                "tests": [
+                    {
+                        "id": 115,
+                        "name": "Achondroplasia"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 306,
+                "name": "SYMPTOM.CEREBRAL_ISCHEMIA",
+                "hpo": "HP:0002637",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 303,
+                "name": "SYMPTOM.BRAIN_ATROPHY",
+                "hpo": "HP:0012444",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 176,
+                "name": "SYMPTOM.STROKE",
+                "hpo": "HP:0001297",
+                "tests": [
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 307,
+                "name": "SYMPTOM.ENCEPHALOPATHY",
+                "hpo": "HP:0001298",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "SYMPTOMCATEGORY.CNS_PHYSIOLOGY",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 168,
+                "name": "SYMPTOM.SLEEP_DISTURBANCE",
+                "hpo": "HP:0002360",
+                "tests": [
+                    {
+                        "id": 116,
+                        "name": "Parkinson extended panel"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Parkinsons disease (GBA)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 322,
+                "name": "SYMPTOM.PARKINSONISM",
+                "hpo": "HP:0001300",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 319,
+                "name": "SYMPTOM.MOTOR_DELAY",
+                "hpo": "HP:0001270",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 2,
+                "name": "SYMPTOM.ABDOMINAL_PAIN",
+                "hpo": "HP:0002027",
+                "tests": [
+                    {
+                        "id": 3,
+                        "name": "HAE"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 25,
+                "name": "SYMPTOM.CHRONIC_HEMOLYTIC_ANEMIA",
+                "hpo": "HP:0004870",
+                "tests": [
+                    {
+                        "id": 12,
+                        "name": "PKLR"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 314,
+                "name": "SYMPTOM.FOCAL-ONSET_SEIZURE",
+                "hpo": "HP:0007359",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 315,
+                "name": "SYMPTOM.GENERALIZED-ONSET_SEIZURE",
+                "hpo": "HP:0002197",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 312,
+                "name": "SYMPTOM.BILATERAL_TONIC-CLONIC_SEIZURE",
+                "hpo": "HP:0002069",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 189,
+                "name": "SYMPTOM.DEVELOPMENTAL_REGRESSION",
+                "hpo": "HP:0002376",
+                "tests": [
+                    {
+                        "id": 113,
+                        "name": "CLN2"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 31,
+                "name": "SYMPTOM.DEMENTIA",
+                "hpo": "HP:0000726",
+                "tests": [
+                    {
+                        "id": 14,
+                        "name": "TTR"
+                    },
+                    {
+                        "id": 116,
+                        "name": "Parkinson extended panel"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Parkinsons disease (GBA)"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 273,
+                "name": "SYMPTOM.NEUROLOGICAL_SPEECH_IMPAIRMENT",
+                "hpo": "HP:0002167",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 317,
+                "name": "SYMPTOM.LETHARGY",
+                "hpo": "HP:0001254",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 272,
+                "name": "SYMPTOM.DYSPHAGIA",
+                "hpo": "HP:0002015",
+                "tests": [
+                    {
+                        "id": 128,
+                        "name": "Niemann Pick Type C"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 318,
+                "name": "SYMPTOM.MIGRAINE",
+                "hpo": "HP:0002076",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 111,
+                "name": "SYMPTOM.HYPERACTIVITY",
+                "hpo": "HP:0000752",
+                "tests": [
+                    {
+                        "id": 21,
+                        "name": "MPS III b"
+                    },
+                    {
+                        "id": 22,
+                        "name": "MPS III c"
+                    },
+                    {
+                        "id": 20,
+                        "name": "MPS III a"
+                    },
+                    {
+                        "id": 24,
+                        "name": "F12"
+                    },
+                    {
+                        "id": 23,
+                        "name": "MPS III d"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 313,
+                "name": "SYMPTOM.EEG_ABNORMALITY",
+                "hpo": "HP:0002353",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 47,
+                "name": "SYMPTOM.INTELLECTUAL_DISABILITY",
+                "hpo": "HP:0001249",
+                "tests": [
+                    {
+                        "id": 10,
+                        "name": "Niemann-Pick"
+                    },
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 11,
+                        "name": "lyso-SM-509"
+                    },
+                    {
+                        "id": 21,
+                        "name": "MPS III b"
+                    },
+                    {
+                        "id": 22,
+                        "name": "MPS III c"
+                    },
+                    {
+                        "id": 20,
+                        "name": "MPS III a"
+                    },
+                    {
+                        "id": 24,
+                        "name": "F12"
+                    },
+                    {
+                        "id": 23,
+                        "name": "MPS III d"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 323,
+                "name": "SYMPTOM.STEREOTYPY",
+                "hpo": "HP:0000733",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 311,
+                "name": "SYMPTOM.ATTENTION_DEFICIT_HYPERACTIVITY_DISORDER",
+                "hpo": "HP:0007018",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 32,
+                "name": "SYMPTOM.DIARRHEA",
+                "hpo": "HP:0002014",
+                "tests": [
+                    {
+                        "id": 3,
+                        "name": "HAE"
+                    },
+                    {
+                        "id": 17,
+                        "name": "LIPA"
+                    },
+                    {
+                        "id": 21,
+                        "name": "MPS III b"
+                    },
+                    {
+                        "id": 22,
+                        "name": "MPS III c"
+                    },
+                    {
+                        "id": 20,
+                        "name": "MPS III a"
+                    },
+                    {
+                        "id": 24,
+                        "name": "F12"
+                    },
+                    {
+                        "id": 23,
+                        "name": "MPS III d"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 19,
+                "name": "SYMPTOM.AUTONOMIC_DYSFUNCTION",
+                "hpo": "HP:0002459",
+                "tests": [
+                    {
+                        "id": 14,
+                        "name": "TTR"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 154,
+                "name": "SYMPTOM.COGNITIVE_IMPAIRMENT",
+                "hpo": "HP:0100543",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 65,
+                "name": "SYMPTOM.SEIZURES",
+                "hpo": "HP:0001250",
+                "tests": [
+                    {
+                        "id": 10,
+                        "name": "Niemann-Pick"
+                    },
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 11,
+                        "name": "lyso-SM-509"
+                    },
+                    {
+                        "id": 14,
+                        "name": "TTR"
+                    },
+                    {
+                        "id": 18,
+                        "name": "MOCS1"
+                    },
+                    {
+                        "id": 19,
+                        "name": "ALPL"
+                    },
+                    {
+                        "id": 21,
+                        "name": "MPS III b"
+                    },
+                    {
+                        "id": 22,
+                        "name": "MPS III c"
+                    },
+                    {
+                        "id": 20,
+                        "name": "MPS III a"
+                    },
+                    {
+                        "id": 24,
+                        "name": "F12"
+                    },
+                    {
+                        "id": 23,
+                        "name": "MPS III d"
+                    },
+                    {
+                        "id": 113,
+                        "name": "CLN2"
+                    },
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    },
+                    {
+                        "id": 118,
+                        "name": "hATTR (Carrier testing sanger- point mutation)"
+                    },
+                    {
+                        "id": 120,
+                        "name": "HPP"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    },
+                    {
+                        "id": 117,
+                        "name": "hATTR (Full gene sequencing)"
+                    },
+                    {
+                        "id": 128,
+                        "name": "Niemann Pick Type C"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 218,
+                "name": "SYMPTOM.MENTAL_DETERIORATION",
+                "hpo": "HP:0001268",
+                "tests": [
+                    {
+                        "id": 116,
+                        "name": "Parkinson extended panel"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Parkinsons disease (GBA)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 316,
+                "name": "SYMPTOM.GLOBAL_DEVELOPMENTAL_DELAY",
+                "hpo": "HP:0001263",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 27,
+                "name": "SYMPTOM.CORNEAL_OPACITY",
+                "hpo": "HP:0007957",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 321,
+                "name": "SYMPTOM.OBSESSIVE-COMPULSIVE_BEHAVIOR",
+                "hpo": "HP:0000722",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "SYMPTOMCATEGORY.DIGESTIVE_SYSTEM",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 327,
+                "name": "SYMPTOM.HEPATIC_STEATOSIS",
+                "hpo": "HP:0001397",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 48,
+                "name": "SYMPTOM.JAUNDICE",
+                "hpo": "HP:0000952",
+                "tests": [
+                    {
+                        "id": 12,
+                        "name": "PKLR"
+                    },
+                    {
+                        "id": 128,
+                        "name": "Niemann Pick Type C"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 331,
+                "name": "SYMPTOM.PANCREATITIS",
+                "hpo": "HP:0001733",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 76,
+                "name": "SYMPTOM.VOMITING",
+                "hpo": "HP:0002013",
+                "tests": [
+                    {
+                        "id": 3,
+                        "name": "HAE"
+                    },
+                    {
+                        "id": 17,
+                        "name": "LIPA"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 26,
+                "name": "SYMPTOM.CONSTIPATION",
+                "hpo": "HP:0002019",
+                "tests": [
+                    {
+                        "id": 14,
+                        "name": "TTR"
+                    },
+                    {
+                        "id": 116,
+                        "name": "Parkinson extended panel"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Parkinsons disease (GBA)"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 7,
+                "name": "SYMPTOM.ABNORMALITY_OF_MOVEMENT",
+                "hpo": "HP:0100022",
+                "tests": [
+                    {
+                        "id": 10,
+                        "name": "Niemann-Pick"
+                    },
+                    {
+                        "id": 11,
+                        "name": "lyso-SM-509"
+                    },
+                    {
+                        "id": 128,
+                        "name": "Niemann Pick Type C"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 328,
+                "name": "SYMPTOM.HEPATITIS",
+                "hpo": "HP:0012115",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 255,
+                "name": "SYMPTOM.GASTROESOPHAGEAL_REFLUX",
+                "hpo": "HP:0002020",
+                "tests": [
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 325,
+                "name": "SYMPTOM.CHOLESTASIS",
+                "hpo": "HP:0001396",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 32,
+                "name": "SYMPTOM.DIARRHEA",
+                "hpo": "HP:0002014",
+                "tests": [
+                    {
+                        "id": 3,
+                        "name": "HAE"
+                    },
+                    {
+                        "id": 17,
+                        "name": "LIPA"
+                    },
+                    {
+                        "id": 21,
+                        "name": "MPS III b"
+                    },
+                    {
+                        "id": 22,
+                        "name": "MPS III c"
+                    },
+                    {
+                        "id": 20,
+                        "name": "MPS III a"
+                    },
+                    {
+                        "id": 24,
+                        "name": "F12"
+                    },
+                    {
+                        "id": 23,
+                        "name": "MPS III d"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 33,
+                "name": "SYMPTOM.DYSOSTOSIS_MULTIPLEX",
+                "hpo": "HP:0000943",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 324,
+                "name": "SYMPTOM.ASCITES",
+                "hpo": "HP:0001541",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 329,
+                "name": "SYMPTOM.HERNIA_OF_THE_ABDOMINAL_WALL",
+                "hpo": "HP:0004299",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 266,
+                "name": "SYMPTOM.HEPATIC_FAILURE",
+                "hpo": "HP:0001399",
+                "tests": [
+                    {
+                        "id": 128,
+                        "name": "Niemann Pick Type C"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 326,
+                "name": "SYMPTOM.CIRRHOSIS",
+                "hpo": "HP:0001394",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 41,
+                "name": "SYMPTOM.HEPATOMEGALY",
+                "hpo": "HP:0002240",
+                "tests": [
+                    {
+                        "id": 13,
+                        "name": "Pompe"
+                    },
+                    {
+                        "id": 16,
+                        "name": "Farber/ASAH1"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "SYMPTOMCATEGORY.HEAD_AND_FACE",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 345,
+                "name": "SYMPTOM.HYPERTELORISM",
+                "hpo": "HP:0000316",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 341,
+                "name": "SYMPTOM.DEPRESSED_NASAL_BRIDGE",
+                "hpo": "HP:0005280",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 35,
+                "name": "SYMPTOM.EMG_MYOPATHIC_ABNORMALITIES",
+                "hpo": "HP:0003458",
+                "tests": [
+                    {
+                        "id": 13,
+                        "name": "Pompe"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 337,
+                "name": "SYMPTOM.ABNORMALITY_OF_THE_DENTITION",
+                "hpo": "HP:0000164",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 346,
+                "name": "SYMPTOM.LONG_PHILTRUM",
+                "hpo": "HP:0000343",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 34,
+                "name": "SYMPTOM.EDEMA",
+                "hpo": "HP:0000969",
+                "tests": [
+                    {
+                        "id": 3,
+                        "name": "HAE"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 342,
+                "name": "SYMPTOM.DOLICHOCEPHALY",
+                "hpo": "HP:0000268",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 203,
+                "name": "SYMPTOM.FRONTAL_BOSSING",
+                "hpo": "HP:0002007",
+                "tests": [
+                    {
+                        "id": 115,
+                        "name": "Achondroplasia"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 351,
+                "name": "SYMPTOM.RETROGNATHIA",
+                "hpo": "HP:0000278",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 338,
+                "name": "SYMPTOM.BRACHYCEPHALY",
+                "hpo": "HP:0000248",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 347,
+                "name": "SYMPTOM.LOW-SET_EARS",
+                "hpo": "HP:0000369",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 352,
+                "name": "SYMPTOM.SHORT_NECK",
+                "hpo": "HP:0000470",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 343,
+                "name": "SYMPTOM.EPICANTHUS",
+                "hpo": "HP:0000286",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 5,
+                "name": "SYMPTOM.ABNORMAL_FACIAL_SHAPE",
+                "hpo": "HP:0001999",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 18,
+                        "name": "MOCS1"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 353,
+                "name": "SYMPTOM.CLEFT_LIP",
+                "hpo": "HP:0410030",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 22,
+                "name": "SYMPTOM.CARDIOMEGALY",
+                "hpo": "HP:0001640",
+                "tests": [
+                    {
+                        "id": 13,
+                        "name": "Pompe"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 339,
+                "name": "SYMPTOM.CLEFT_PALATE",
+                "hpo": "HP:0000175",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 348,
+                "name": "SYMPTOM.MACROGLOSSIA",
+                "hpo": "HP:0000158",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 349,
+                "name": "SYMPTOM.MICROGNATHIA",
+                "hpo": "HP:0000347",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 256,
+                "name": "SYMPTOM.PTOSIS",
+                "hpo": "HP:0000508",
+                "tests": [
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 206,
+                "name": "SYMPTOM.MIDFACE_RETRUSION",
+                "hpo": "HP:0011800",
+                "tests": [
+                    {
+                        "id": 115,
+                        "name": "Achondroplasia"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 344,
+                "name": "SYMPTOM.HIGH_PALATE",
+                "hpo": "HP:0000218",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "SYMPTOMCATEGORY.HEARING",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 354,
+                "name": "SYMPTOM.SENSORINEURAL_HEARING_IMPAIRMENT",
+                "hpo": "HP:0000407",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 4,
+                "name": "SYMPTOM.ABNORMAL_CIRCULATING_CREATININE_LEVEL",
+                "hpo": "HP:0012100",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 13,
+                        "name": "Pompe"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 355,
+                "name": "SYMPTOM.CONDUCTIVE_HEARING_IMPAIRMENT",
+                "hpo": "HP:0000405",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "SYMPTOMCATEGORY.KIDNEY",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 64,
+                "name": "SYMPTOM.RENAL_INSUFFICIENCY",
+                "hpo": "HP:0000083",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 361,
+                "name": "SYMPTOM.NEPHROTIC_SYNDROME",
+                "hpo": "HP:0000100",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 356,
+                "name": "SYMPTOM.CHRONIC_KIDNEY_DISEASE",
+                "hpo": "HP:0012622",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 363,
+                "name": "SYMPTOM.RENAL_CYST",
+                "hpo": "HP:0000107",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 357,
+                "name": "SYMPTOM.FOCAL_SEGMENTAL_GLOMERULOSCLEROSIS",
+                "hpo": "HP:0000097",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 359,
+                "name": "SYMPTOM.HYPERECHOGENIC_KIDNEYS",
+                "hpo": "HP:0004719",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 362,
+                "name": "SYMPTOM.POLYCYSTIC_KIDNEY_DYSPLASIA",
+                "hpo": "HP:0000113",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 364,
+                "name": "SYMPTOM.RENAL_HYPOPLASIA/APLASIA",
+                "hpo": "HP:0008678",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 358,
+                "name": "SYMPTOM.HYDRONEPHROSIS",
+                "hpo": "HP:0000126",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 365,
+                "name": "SYMPTOM.RENAL_TUBULAR_DYSFUNCTION",
+                "hpo": "HP:0000124",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 36,
+                "name": "SYMPTOM.ERYTHEMA",
+                "hpo": "HP:0010783",
+                "tests": [
+                    {
+                        "id": 3,
+                        "name": "HAE"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "SYMPTOMCATEGORY.METABOLISM",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 372,
+                "name": "SYMPTOM.HYPERAMMONEMIA",
+                "hpo": "HP:0001987",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 377,
+                "name": "SYMPTOM.HYPOCALCEMIA",
+                "hpo": "HP:0002901",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 254,
+                "name": "SYMPTOM.HYPOGLYCEMIA",
+                "hpo": "HP:0001943",
+                "tests": [
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 368,
+                "name": "SYMPTOM.ELEVATED_HEPATIC_TRANSAMINASE",
+                "hpo": "HP:0002910",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 373,
+                "name": "SYMPTOM.HYPERBILIRUBINEMIA",
+                "hpo": "HP:0002904",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 382,
+                "name": "SYMPTOM.METABOLIC_ACIDOSIS",
+                "hpo": "HP:0001942",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 38,
+                "name": "SYMPTOM.FUNCTIONAL_ABNORMALITY_OF_THE_GASTROINTESTINAL_TRACT",
+                "hpo": "HP:0012719",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 369,
+                "name": "SYMPTOM.ELEVATED_SERUM_CREATINE_KINASE",
+                "hpo": "HP:0003236",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 378,
+                "name": "SYMPTOM.HYPOKALEMIA",
+                "hpo": "HP:0002900",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 383,
+                "name": "SYMPTOM.RESPIRATORY_ALKALOSIS",
+                "hpo": "HP:0001950",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 374,
+                "name": "SYMPTOM.HYPERCHOLESTEROLEMIA",
+                "hpo": "HP:0003124",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 379,
+                "name": "SYMPTOM.HYPONATREMIA",
+                "hpo": "HP:0002902",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 37,
+                "name": "SYMPTOM.FLEXION_CONTRACTURES_OF_JOINTS",
+                "hpo": "HP:0001371",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Duchenne muscular dystrophy (DMD)"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 366,
+                "name": "SYMPTOM.ALBUMINURIA",
+                "hpo": "HP:0012592",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 375,
+                "name": "SYMPTOM.HYPERGLYCEMIA",
+                "hpo": "HP:0003074",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 371,
+                "name": "SYMPTOM.ELEVATED_ALKALINE_PHOSPHATASE",
+                "hpo": "HP:0003155",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 376,
+                "name": "SYMPTOM.HYPERTRIGLYCERIDEMIA",
+                "hpo": "HP:0002155",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 381,
+                "name": "SYMPTOM.LACTIC_ACIDOSIS",
+                "hpo": "HP:0003128",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 82,
+                "name": "SYMPTOM.PROTEINURIA",
+                "hpo": "HP:0000093",
+                "tests": [
+                    {
+                        "id": 15,
+                        "name": "AHUS"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 367,
+                "name": "SYMPTOM.AMINOACIDURIA",
+                "hpo": "HP:0003355",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "SYMPTOMCATEGORY.MOVEMENT/MOTOR_FUNCTION",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 39,
+                "name": "SYMPTOM.GROWTH_DELAY",
+                "hpo": "HP:0001510",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    },
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 386,
+                "name": "SYMPTOM.FREQUENT_FALLS",
+                "hpo": "HP:0002359",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 391,
+                "name": "SYMPTOM.SPASTIC_PARAPARESIS",
+                "hpo": "HP:0002313",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 262,
+                "name": "SYMPTOM.DYSTONIA",
+                "hpo": "HP:0001332",
+                "tests": [
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 387,
+                "name": "SYMPTOM.INVOLUNTARY_MOVEMENTS",
+                "hpo": "HP:0004305",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 162,
+                "name": "SYMPTOM.DYSKINESIA",
+                "hpo": "HP:0100660",
+                "tests": [
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 158,
+                "name": "SYMPTOM.TREMOR",
+                "hpo": "HP:0001337",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 392,
+                "name": "SYMPTOM.SPASTIC_PARAPLEGIA",
+                "hpo": "HP:0001258",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 153,
+                "name": "SYMPTOM.BRADYKINESIA",
+                "hpo": "HP:0002067",
+                "tests": [
+                    {
+                        "id": 116,
+                        "name": "Parkinson extended panel"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Parkinsons disease (GBA)"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 215,
+                "name": "SYMPTOM.GAIT_DISTURBANCE",
+                "hpo": "HP:0001288",
+                "tests": [
+                    {
+                        "id": 116,
+                        "name": "Parkinson extended panel"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Parkinsons disease (GBA)"
+                    },
+                    {
+                        "id": 128,
+                        "name": "Niemann Pick Type C"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 388,
+                "name": "SYMPTOM.PERIPHERAL_NEUROPATHY",
+                "hpo": "HP:0009830",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 87,
+                "name": "SYMPTOM.HYPERREFLEXIA",
+                "hpo": "HP:0001347",
+                "tests": [
+                    {
+                        "id": 18,
+                        "name": "MOCS1"
+                    },
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 69,
+                "name": "SYMPTOM.SPASTICITY",
+                "hpo": "HP:0001257",
+                "tests": [
+                    {
+                        "id": 14,
+                        "name": "TTR"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 384,
+                "name": "SYMPTOM.AREFLEXIA",
+                "hpo": "HP:0001284",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 141,
+                "name": "SYMPTOM.HYPOREFLEXIA",
+                "hpo": "HP:0001265",
+                "tests": [
+                    {
+                        "id": 25,
+                        "name": "Duchenne muscular dystrophy (DMD)"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 389,
+                "name": "SYMPTOM.POLYNEUROPATHY",
+                "hpo": "HP:0001271",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 385,
+                "name": "SYMPTOM.CHOREA",
+                "hpo": "HP:0002072",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 18,
+                "name": "SYMPTOM.ATAXIA",
+                "hpo": "HP:0001251",
+                "tests": [
+                    {
+                        "id": 10,
+                        "name": "Niemann-Pick"
+                    },
+                    {
+                        "id": 11,
+                        "name": "lyso-SM-509"
+                    },
+                    {
+                        "id": 14,
+                        "name": "TTR"
+                    },
+                    {
+                        "id": 113,
+                        "name": "CLN2"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    },
+                    {
+                        "id": 128,
+                        "name": "Niemann Pick Type C"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "SYMPTOMCATEGORY.MUSCLE/JOINT",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 395,
+                "name": "SYMPTOM.HIP_DYSPLASIA",
+                "hpo": "HP:0001385",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 116,
+                "name": "SYMPTOM.JOINT_LAXITY",
+                "hpo": "HP:0001388",
+                "tests": [
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 138,
+                "name": "SYMPTOM.MUSCLE_WEAKNESS",
+                "hpo": "HP:0001324",
+                "tests": [
+                    {
+                        "id": 118,
+                        "name": "hATTR (Carrier testing sanger- point mutation)"
+                    },
+                    {
+                        "id": 120,
+                        "name": "HPP"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    },
+                    {
+                        "id": 117,
+                        "name": "hATTR (Full gene sequencing)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 396,
+                "name": "SYMPTOM.JOINT_HYPERMOBILITY",
+                "hpo": "HP:0001382",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 149,
+                "name": "SYMPTOM.SYMPTOM.RIGIDITY",
+                "hpo": "HP:0002063",
+                "tests": [
+                    {
+                        "id": 116,
+                        "name": "Parkinson extended panel"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Parkinsons disease (GBA)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 61,
+                "name": "SYMPTOM.PROXIMAL_MUSCLE_WEAKNESS",
+                "hpo": "HP:0003701",
+                "tests": [
+                    {
+                        "id": 13,
+                        "name": "Pompe"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 179,
+                "name": "SYMPTOM.MYOPATHY",
+                "hpo": "HP:0003198",
+                "tests": [
+                    {
+                        "id": 118,
+                        "name": "hATTR (Carrier testing sanger- point mutation)"
+                    },
+                    {
+                        "id": 120,
+                        "name": "HPP"
+                    },
+                    {
+                        "id": 117,
+                        "name": "hATTR (Full gene sequencing)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 401,
+                "name": "SYMPTOM.TALIPES_EQUINOVARUS",
+                "hpo": "HP:0001762",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 193,
+                "name": "SYMPTOM.HYPERTONIA",
+                "hpo": "HP:0001276",
+                "tests": [
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 52,
+                "name": "SYMPTOM.MUSCLE_HYPOTONIA",
+                "hpo": "HP:0001252",
+                "tests": [
+                    {
+                        "id": 13,
+                        "name": "Pompe"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 397,
+                "name": "SYMPTOM.LOWER_LIMB_MUSCLE_WEAKNESS",
+                "hpo": "HP:0007340",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 137,
+                "name": "SYMPTOM.CALF_MUSCLE_PSEUDOHYPERTROPHY",
+                "hpo": "HP:0003707",
+                "tests": [
+                    {
+                        "id": 25,
+                        "name": "Duchenne muscular dystrophy (DMD)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 235,
+                "name": "SYMPTOM.MUSCULAR_DYSTROPHY",
+                "hpo": "HP:0003560",
+                "tests": [
+                    {
+                        "id": 25,
+                        "name": "Duchenne muscular dystrophy (DMD)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 393,
+                "name": "SYMPTOM.FLEXION_CONTRACTURE",
+                "hpo": "HP:0001371",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 398,
+                "name": "SYMPTOM.MULTIPLE_JOINT_CONTRACTURES",
+                "hpo": "HP:0002828",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 4,
+                "name": "SYMPTOM.ABNORMAL_CIRCULATING_CREATININE_LEVEL",
+                "hpo": "HP:0012100",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 13,
+                        "name": "Pompe"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 394,
+                "name": "SYMPTOM.GOWERS_SIGN",
+                "hpo": "HP:0003391",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 399,
+                "name": "SYMPTOM.MYOTONIA",
+                "hpo": "HP:0002486",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 233,
+                "name": "SYMPTOM.PROGRESSIVE_MUSCLE_WEAKNESS",
+                "hpo": "HP:0003323",
+                "tests": [
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "SYMPTOMCATEGORY.RESPIRATORY",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 404,
+                "name": "SYMPTOM.DYSPNEA",
+                "hpo": "HP:0002094",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 406,
+                "name": "SYMPTOM.PULMONARY_HYPOPLASIA",
+                "hpo": "HP:0002089",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 402,
+                "name": "SYMPTOM.APNEA",
+                "hpo": "HP:0002104",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 405,
+                "name": "SYMPTOM.PULMONARY_HEMORRHAGE",
+                "hpo": "HP:0040223",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 134,
+                "name": "SYMPTOM.RESPIRATORY_INSUFFICIENCY",
+                "hpo": "HP:0002093",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 403,
+                "name": "SYMPTOM.ASTHMA",
+                "hpo": "HP:0002099",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 407,
+                "name": "SYMPTOM.RECURRENT_RESPIRATORY_INFECTIONS",
+                "hpo": "HP:0002205",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "SYMPTOMCATEGORY.SKELETAL",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 413,
+                "name": "SYMPTOM.CLINODACTYLY",
+                "hpo": "HP:0030084",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 62,
+                "name": "SYMPTOM.RECURRENT_FRACTURES",
+                "hpo": "HP:0002757",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    },
+                    {
+                        "id": 19,
+                        "name": "ALPL"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 408,
+                "name": "SYMPTOM.ABNORMAL_VERTEBRAL_MORPHOLOGY",
+                "hpo": "HP:0003468",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 417,
+                "name": "SYMPTOM.PECTUS_EXCAVATUM",
+                "hpo": "HP:0000767",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 412,
+                "name": "SYMPTOM.BRACHYDACTYLY",
+                "hpo": "HP:0001156",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 421,
+                "name": "SYMPTOM.SPONDYLOLYSIS",
+                "hpo": "HP:0003304",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 416,
+                "name": "SYMPTOM.PECTUS_CARINATUM",
+                "hpo": "HP:0000768",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 202,
+                "name": "SYMPTOM.KYPHOSIS",
+                "hpo": "HP:0002808",
+                "tests": [
+                    {
+                        "id": 115,
+                        "name": "Achondroplasia"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 411,
+                "name": "SYMPTOM.ARACHNODACTYLY",
+                "hpo": "HP:0001166",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 415,
+                "name": "SYMPTOM.LIMB_UNDERGROWTH",
+                "hpo": "HP:0009826",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 42,
+                "name": "SYMPTOM.HEPATOSPLENOMEGALY",
+                "hpo": "HP:0001433",
+                "tests": [
+                    {
+                        "id": 2,
+                        "name": "Gaucher"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Niemann-Pick"
+                    },
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 4,
+                        "name": "lyso-Gb1"
+                    },
+                    {
+                        "id": 11,
+                        "name": "lyso-SM-509"
+                    },
+                    {
+                        "id": 17,
+                        "name": "LIPA"
+                    },
+                    {
+                        "id": 128,
+                        "name": "Niemann Pick Type C"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 33,
+                "name": "SYMPTOM.DYSOSTOSIS_MULTIPLEX",
+                "hpo": "HP:0000943",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 136,
+                "name": "SYMPTOM.SCOLIOSIS",
+                "hpo": "HP:0002650",
+                "tests": [
+                    {
+                        "id": 25,
+                        "name": "Duchenne muscular dystrophy (DMD)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 419,
+                "name": "SYMPTOM.REDUCED_BONE_MINERAL_DENSITY",
+                "hpo": "HP:0004349",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 414,
+                "name": "SYMPTOM.INCREASED_BONE_MINERAL_DENSITY",
+                "hpo": "HP:0011001",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 409,
+                "name": "SYMPTOM.ABNORMALITY_OF_LIMB_BONE_MORPHOLOGY",
+                "hpo": "HP:0002813",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 418,
+                "name": "SYMPTOM.POLYDACTYLY",
+                "hpo": "HP:0010442",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 41,
+                "name": "SYMPTOM.HEPATOMEGALY",
+                "hpo": "HP:0002240",
+                "tests": [
+                    {
+                        "id": 13,
+                        "name": "Pompe"
+                    },
+                    {
+                        "id": 16,
+                        "name": "Farber/ASAH1"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "SYMPTOMCATEGORY.SKIN/NAILS/HAIR",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 429,
+                "name": "SYMPTOM.HYPOHIDROSIS",
+                "hpo": "HP:0000966",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 422,
+                "name": "SYMPTOM.ABNORMAL_HAIR_MORPHOLOGY",
+                "hpo": "HP:0001595",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 424,
+                "name": "SYMPTOM.ANHIDROSIS",
+                "hpo": "HP:0000970",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 426,
+                "name": "SYMPTOM.HYPEREXTENSIBLE_SKIN",
+                "hpo": "HP:0000974",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 428,
+                "name": "SYMPTOM.HYPERTRICHOSIS",
+                "hpo": "HP:0000998",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 423,
+                "name": "SYMPTOM.ABNORMALITY_OF_SKIN_MORPHOLOGY",
+                "hpo": "HP:0011121",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 425,
+                "name": "SYMPTOM.CAFE-AU-LAIT_SPOT",
+                "hpo": "HP:0000957",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 15,
+                "name": "SYMPTOM.ANGIOKERATOMA",
+                "hpo": "HP:0001014",
+                "tests": [
+                    {
+                        "id": 5,
+                        "name": "lyso-Gb3"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Fabry"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 198,
+                "name": "SYMPTOM.HYPOPIGMENTATION_OF_THE_SKIN",
+                "hpo": "HP:0001010",
+                "tests": [
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 43,
+                "name": "SYMPTOM.HIRSUTISM",
+                "hpo": "HP:0001007",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 21,
+                        "name": "MPS III b"
+                    },
+                    {
+                        "id": 22,
+                        "name": "MPS III c"
+                    },
+                    {
+                        "id": 20,
+                        "name": "MPS III a"
+                    },
+                    {
+                        "id": 24,
+                        "name": "F12"
+                    },
+                    {
+                        "id": 23,
+                        "name": "MPS III d"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 427,
+                "name": "SYMPTOM.HYPERPIGMENTATION_OF_THE_SKIN",
+                "hpo": "HP:0000953",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "SYMPTOMCATEGORY.VISION",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 431,
+                "name": "SYMPTOM.ABNORMALITY_OF_EYE_MOVEMENT",
+                "hpo": "HP:0000496",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 435,
+                "name": "SYMPTOM.REDUCED_VISUAL_ACUITY",
+                "hpo": "HP:0007663",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 199,
+                "name": "SYMPTOM.CATARACT",
+                "hpo": "HP:0000518",
+                "tests": [
+                    {
+                        "id": 114,
+                        "name": "Phenylketonuria"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 226,
+                "name": "SYMPTOM.NYSTAGMUS",
+                "hpo": "HP:0000639",
+                "tests": [
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 434,
+                "name": "SYMPTOM.OPTIC_ATROPHY",
+                "hpo": "HP:0000648",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 55,
+                "name": "SYMPTOM.OPHTHALMOPLEGIA",
+                "hpo": "HP:0000602",
+                "tests": [
+                    {
+                        "id": 10,
+                        "name": "Niemann-Pick"
+                    },
+                    {
+                        "id": 11,
+                        "name": "lyso-SM-509"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 438,
+                "name": "SYMPTOM.VISUAL_LOSS",
+                "hpo": "HP:0000572",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 433,
+                "name": "SYMPTOM.GLAUCOMA",
+                "hpo": "HP:0000501",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 225,
+                "name": "SYMPTOM.VISUAL_IMPAIRMENT",
+                "hpo": "HP:0000505",
+                "tests": [
+                    {
+                        "id": 121,
+                        "name": "Transthyretin Amyloid cardiomyopathy (ATTR-CM)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 437,
+                "name": "SYMPTOM.STRABISMUS",
+                "hpo": "HP:0000486",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 432,
+                "name": "SYMPTOM.ABNORMAL_CORNEA_MORPHOLOGY",
+                "hpo": "HP:0000481",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 436,
+                "name": "SYMPTOM.ROD-CONE_DYSTROPHY",
+                "hpo": "HP:0000510",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 27,
+                "name": "SYMPTOM.CORNEAL_OPACITY",
+                "hpo": "HP:0007957",
+                "tests": [
+                    {
+                        "id": 6,
+                        "name": "MPSI"
+                    },
+                    {
+                        "id": 7,
+                        "name": "MPSII"
+                    },
+                    {
+                        "id": 8,
+                        "name": "MPSIVa/b"
+                    },
+                    {
+                        "id": 9,
+                        "name": "MPSVI"
+                    },
+                    {
+                        "id": 109,
+                        "name": "AADC deficiency testing"
+                    },
+                    {
+                        "id": 135,
+                        "name": "Dystonia panel (NGS)"
+                    },
+                    {
+                        "id": 142,
+                        "name": "AADC deficiency testing (Reveal)"
+                    },
+                    {
+                        "id": 148,
+                        "name": "CentoNeuro (NGS)"
+                    }
+                ],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "SYMPTOMCATEGORY.PRENATAL_(ULTRASOUND_FINDINGS)",
+        "disabled": false,
+        "symptoms": [
+            {
+                "id": 451,
+                "name": "SYMPTOM.FETAL_ANOMALY",
+                "hpo": "HP:0034057",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 450,
+                "name": "SYMPTOM.ABNORMAL_FETAL_PHYSIOLOGY",
+                "hpo": "HP:0034059",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 453,
+                "name": "SYMPTOM.ABNORMALITIES_OF_PLACENTA_OR_UMBILICAL_CORD",
+                "hpo": "HP:0001194",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 452,
+                "name": "SYMPTOM.FETAL_ULTRASOUND_SOFT_MARKER ",
+                "hpo": "HP:0011425",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            },
+            {
+                "id": 449,
+                "name": "SYMPTOM.ABNORMAL_FETAL_MORPHOLOGY",
+                "hpo": "HP:0034058",
+                "tests": [],
+                "disabled": false,
+                "ultrasound": false,
+                "familyHistory": false
+            }
+        ]
+    }
+]
