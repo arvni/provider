@@ -11,14 +11,14 @@ import {
 import {Add as AddIcon, Edit} from "@mui/icons-material";
 import DeleteButton from "@/Components/DeleteButton";
 import React, {useState} from "react";
-import { uuid } from 'uuidv4';
 
 import {Requirement} from "@/types/test";
 import AddRequirementForm from "./AddRequirementForm";
+import {makeId} from "@/services/makeUUID";
 
 const RequirementForm = ({error,requirements,onChange}:{error:string|undefined,requirements:Requirement[]|undefined,onChange:(key:string,value:Requirement[])=>void}) => {
     const [requirement, setRequirement] = useState<Requirement>({
-        id:uuid(),
+        id:makeId(6),
         label: "",
         type: "text",
         required: true,
