@@ -6,13 +6,13 @@ import {
     Grid,
     TextField
 } from "@mui/material";
-import React, {ChangeEvent, useState} from "react";
+import React, {ChangeEvent} from "react";
 import {LoadingButton} from "@mui/lab";
-import {Add as AddIcon, Edit, Save as SaveIcon} from "@mui/icons-material";
+import { Save as SaveIcon} from "@mui/icons-material";
 import {storeTestValidator} from "@/services/validate";
 import {SampleType, Test} from "@/types/test";
-import SampleTypeForm from "@/Pages/Test/Components/SampleTypeForm";
-import RequirementForm from "@/Pages/Test/Components/RequirementForm";
+import SampleTypeForm from "./SampleTypeForm";
+import RequirementForm from "./RequirementForm";
 
 
 const AddForm = ({

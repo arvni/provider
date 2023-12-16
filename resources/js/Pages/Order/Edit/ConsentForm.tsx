@@ -5,7 +5,7 @@ import routes from "@/routes";
 import {Order} from "@/Pages/Order/Add";
 import EditLayout from "@/Pages/Order/EditLayout";
 import {Box, Button, FormControlLabel, Grid, Radio, RadioGroup, Stack, Typography} from "@mui/material";
-import {Consent} from "@/Pages/Consent/Index";
+import {Consent} from "@/Pages/Admin/Consent/Index";
 
 const ConsentForm: React.FC<PageProps> = ({auth, order, step,consents}) => {
     const {

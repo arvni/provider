@@ -13,7 +13,7 @@ import {Add as AddIcon, Edit} from "@mui/icons-material";
 import DeleteButton from "@/Components/DeleteButton";
 import React, {useState} from "react";
 import {Requirement} from "@/types/test";
-import AddRequirementForm from "@/Pages/Test/Components/AddRequirementForm";
+import AddRequirementForm from "./AddRequirementForm";
 
 const RequirementForm = ({error,requirements,onChange}:{error:string|undefined,requirements:Requirement[]|undefined,onChange:(key:string,value:Requirement[])=>void}) => {
     const [requirement, setRequirement] = useState<Requirement>({

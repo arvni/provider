@@ -168,13 +168,15 @@
                         <p><strong>Consanguineous
                                 parents:</strong> {{$order->patient->consanguineousParents?"yes":"no"}}</p>
                         <strong>Symptoms:</strong>
+                        @if(isset($order->clinical_information["symptoms"]))
                         <ol style="padding: 0 0 0 5mm">
                             @foreach($order->clinical_information["symptoms"] as $symptom)
                                 <li>{{Str::replace("SYMPTOM.","",$symptom["name"])}}:{{$symptom["value"]}} </li>
                             @endforeach
                         </ol>
+                        @endif
                         <p><strong>Symptoms not listed in
-                                HPO:</strong> {{$order->clinical_information["otherSymptom"]??"not specified"}}</p>
+                                HPO:</strong> {{optional($order->clinical_information)["otherSymptom"]??"not specified"}}</p>
                     </td>
                 </tr>
                 </tbody>

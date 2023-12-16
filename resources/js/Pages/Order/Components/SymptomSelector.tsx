@@ -1,6 +1,6 @@
 import {Autocomplete, Box, InputAdornment, TextField, Typography} from "@mui/material";
 import React, {useEffect, useState} from "react";
-import {Symptom} from "@/Pages/Symptom/Index";
+import {Symptom} from "@/Pages/Admin/Symptom/Index";
 import {useGetData} from "@/services/api";
 import {Search} from "@mui/icons-material";
 

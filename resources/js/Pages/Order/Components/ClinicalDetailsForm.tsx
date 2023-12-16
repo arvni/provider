@@ -20,7 +20,7 @@ import {
     Typography,
     TypographyProps
 } from "@mui/material";
-import {Symptom} from "@/Pages/Symptom/Index";
+import {Symptom} from "@/Pages/Admin/Symptom/Index";
 import SymptomSelector from "@/Pages/Order/Components/SymptomSelector";
 import {Delete, InfoRounded} from "@mui/icons-material";
 import {ChangeEvent, MouseEventHandler} from "react";

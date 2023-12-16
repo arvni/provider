@@ -8,7 +8,6 @@ import {
 import React, {ChangeEvent, useState} from "react";
 import {Requirement} from "@/types/test";
 import {Save} from "@mui/icons-material";
-import ke from "../../../../../public/build/assets/Index-6a3608da";
 
 interface AddMethodFormProps {
     data: Requirement,

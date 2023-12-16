@@ -12,7 +12,7 @@ import {Add as AddIcon, Edit} from "@mui/icons-material";
 import DeleteButton from "@/Components/DeleteButton";
 import React, {useState} from "react";
 import {SampleType} from "@/types/test";
-import AddSampleTypeForm from "@/Pages/Test/Components/AddSampleTypeForm";
+import AddSampleTypeForm from "./AddSampleTypeForm";
 
 const SampleTypeForm = ({error,sampleTypes,onChange}:{error:string|undefined,sampleTypes:SampleType[]|undefined,onChange:(key:string,value:SampleType[])=>void}) => {
 
