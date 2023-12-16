@@ -16,7 +16,7 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('orders', function (Blueprint $table) {
-            $table->uuid("id")->index()->primary();
+            $table->id();
             $table->unsignedBigInteger("server_id")->unique()->nullable();
             $table->foreignIdFor(User::class)->references("id")->on("users");
             $table->foreignIdFor(Patient::class)->nullable()->references("id")->on("patients");

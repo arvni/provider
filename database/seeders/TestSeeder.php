@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\SampleType;
 use App\Models\Test;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Str;
@@ -25,11 +26,14 @@ class TestSeeder extends Seeder
                     "turnaroundTime" => $testDetails["tat"],
                 ]);
             $test->SampleTypes()->sync(collect($testDetails["sampleRequirements"])
-                ->reduce(fn($res, $item) => [
-                    $item["sample"]["id"] => [
-                        "id" => Str::uuid(),
-                        "description" => $item["sample"]["description"] . "(" . $item["quantity"] . $item["sample"]["unit"] . ")"
-                    ]], []));
+                ->reduce(function($res, $item){
+                    if (SampleType::find($item["sample"]["id"]))
+                    $res[$item["sample"]["id"]] = [
+                            "id" => Str::uuid(),
+                            "description" => $item["sample"]["description"] . "(" . $item["quantity"] . $item["sample"]["unit"] . ")"
+                        ];
+                    return $res;
+                }, []));
         }
     }
 }
