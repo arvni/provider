@@ -11,7 +11,7 @@ import {
 import {Add as AddIcon, Edit} from "@mui/icons-material";
 import DeleteButton from "@/Components/DeleteButton";
 import React, {useState} from "react";
-const { uuid } = require('uuidv4');
+import { uuid } from 'uuidv4';
 
 import {Requirement} from "@/types/test";
 import AddRequirementForm from "./AddRequirementForm";

@@ -1,0 +1,1 @@
+import{j as t,R as a}from"./app-468dc84b.js";import{S as i}from"./Stack-6d196264.js";const c=({actions:r})=>t(i,{direction:"row",alignItems:"center",spacing:2,justifyContent:"end",children:Array.isArray(r)?r.map((e,n)=>t(a.Fragment,{children:e},n)):r});export{c as A};
