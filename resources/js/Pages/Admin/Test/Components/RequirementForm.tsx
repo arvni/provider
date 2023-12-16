@@ -44,7 +44,7 @@ const RequirementForm = ({error,requirements,onChange}:{error:string|undefined,r
     }
     const resetRequirement = () => {
         setRequirement({
-            id:crypto.randomUUID(),
+            id:makeId(6),
             label: "",
             type: "text",
             required: true,
