@@ -5,19 +5,20 @@ import {
     List,
     ListItem,
     ListItemAvatar,
-    ListItemIcon,
     ListItemText,
     Stack
 } from "@mui/material";
 import {Add as AddIcon, Edit} from "@mui/icons-material";
 import DeleteButton from "@/Components/DeleteButton";
 import React, {useState} from "react";
+const { uuid } = require('uuidv4');
+
 import {Requirement} from "@/types/test";
 import AddRequirementForm from "./AddRequirementForm";
 
 const RequirementForm = ({error,requirements,onChange}:{error:string|undefined,requirements:Requirement[]|undefined,onChange:(key:string,value:Requirement[])=>void}) => {
     const [requirement, setRequirement] = useState<Requirement>({
-        id:crypto.randomUUID(),
+        id:uuid(),
         label: "",
         type: "text",
         required: true,
